@@ -11,21 +11,20 @@ ShrinkLive is a Android game based on Shapes Shrinking(random Shapes with Random
 The player star in his own ship which can only rotate around the planet. Currently there are three available shapes all with different level of difficulty. Shrinking shapes are trying to hit the player. But shapes have a side open which can be used to escape their grasp and be safe. when the shapes reach the planet the planet defence force distroys the shape.
 
 ## App Control
-Left half of the Screen is control for player vehicle to rotate clockwise.<br>
-Right half of the Screen is control for player vehicle to rotate anticlockwise.
+Left half of the Screen is control for player vehicle to rotate clockwise, and right half of the Screen is control for player vehicle to rotate anticlockwise.
 <table align="center">
 <td><img width="120" alt="nordes" src="https://github.com/Shivam-ingawale/ShrinkLive-Android-Game/blob/main/ShrinkLife/2.jpeg"></a></td>
 </table>
 
 ## Downloads
-Releases for Android are found on the . It is in a runnable .apk format so you must have to download and get it installed. 
+* [Download Apk](https://github.com/Shivam-ingawale/ShrinkLive-Android-Game/blob/main/ShrinkLife.apk) this is in a runnable .apk format so you must have to download and get it installed. 
 
 ## Credits
 * Programming - done by me using C# in Unity Engine.
 * Artwork - done by me using adobe Xd
 
 ## License
-This project is licensed under the [MIT License](https://github.com/Shivam-ingawale/ShrinkLive-Android-Game/blob/master/LICENSE).
+* This project is licensed under the [MIT License](https://github.com/Shivam-ingawale/ShrinkLive-Android-Game/blob/master/LICENSE).
 
 ## Showcase
 
