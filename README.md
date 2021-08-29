@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/Shivam-ingawale/ShrinkLive-Android-Game/blob/main/ShrinkLife/logo.png" width="250px"/><br/>
+  <img src="https://github.com/Shivam-ingawale/ShrinkLive-Android-Game/blob/main/ShrinkLife/logo.png" width="120px"/><br/>
   ShrinkLive
 </h1>
 ShrinkLive is a Android game based on Shapes Shrinking(random Shapes with Random Rotation) with a player in as a Star Shaped vehicle around a Blue Planet which destroys the Shrinking shapes. Everything from player vehicle movement to shapes Shrinking is based on my imagination hope you all like it. 
